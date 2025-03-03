@@ -30,7 +30,3 @@ Notes:
 
 Hope this helps! Let me know if you'd like me to suggest any changes.
 
-
-Screenshot:
-![image](https://github.com/user-attachments/assets/a4f70d76-0777-4848-b5c8-9c604026d21b)
-
