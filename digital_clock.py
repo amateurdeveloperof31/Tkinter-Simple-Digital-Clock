@@ -7,7 +7,7 @@ import pyglet
 width =200  # Window Width
 height = 50  # Window Height
 font = 'digital-7.ttf'  # Custom Font File
-main_background = 'white'  # Main Background Color
+main_background = 'white'
 hour_color = '#fa0a2f'
 minute_color = '#0032ff'
 seconds_color = '#FF5733'
